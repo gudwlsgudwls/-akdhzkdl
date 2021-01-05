@@ -1,0 +1,93 @@
+#page{
+  font-family: "바탕";
+  margin-left:500px;
+  margin-right:500px;
+}
+#info-grid{
+  display: grid;
+  grid-template-columns: 600px 1fr;
+}
+.champ-name{
+  font-size:40px;
+  text-align:center;
+}
+
+.champ-int{
+  text-align:center;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.champ-category{
+  height:70px;
+  font-size:33px;
+  margin-right:auto;
+  border-bottom:5px solid black;
+  margin-bottom:30px;
+}
+
+h3{
+  text-align:center;
+}
+
+.champ-info{
+  padding-left:100px;
+  padding-right:100px;
+}
+.champ-skill{
+  padding-left:100px;
+  padding-right:100px;
+}
+.champ-skin{
+  padding-left:100px;
+  padding-right:100px;
+}
+.champ-comment{
+  padding-left:100px;
+  padding-right:100px;
+}
+
+.maokai-story{
+  font-size:25px;
+  border-right:2px solid black;
+  padding:30px;
+}
+
+.maokai-illust{
+  padding:30px;
+}
+
+.skills{
+  border:3px solid black;
+  display: grid;
+  grid-template-columns: 200px 2fr;
+  margin-bottom:30px;
+}
+
+.skill-text{
+  border-left:3px solid black;
+}
+
+.skill-name{
+  font-size:30px;
+  padding:20px;
+}
+
+.skill-ex{
+  22px;
+  padding:20px;
+}
+
+#skin-list{
+  text-align:center;
+}
+
+.skin-name{
+  font-size:40px;
+  margin-bottom:30px;
+  border-bottom:3px solid black;
+}
+
+.skin-illust{
+  margin-top:85px;
+}
